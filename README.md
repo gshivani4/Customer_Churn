@@ -27,7 +27,7 @@ To run the notebook, you'll need the following dependencies:
 - Seaborn
 - Google Colab
 
-You can install the necessary libraries using pip:
+You can install the necessary libraries using pip
 
 
 
